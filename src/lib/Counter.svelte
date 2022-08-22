@@ -20,7 +20,7 @@
 
 <style>
   button {
-    border: 1px solid green;
+    border: 3px solid green;
     padding: 5px;
     background-color: crimson;
     color: white;
