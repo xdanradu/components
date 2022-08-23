@@ -15,9 +15,10 @@
 </main>
 
 <style lang="scss">
-  @import "./style.scss";
+$blue: blue;
+
   .h1 {
-    color: blue;
+    color: $blue;
   }
 
   .p {
