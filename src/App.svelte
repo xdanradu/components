@@ -14,7 +14,8 @@
   </div>
 </main>
 
-<style>
+<style lang="scss">
+  @import "./style.scss";
   .h1 {
     color: blue;
   }
