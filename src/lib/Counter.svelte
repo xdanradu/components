@@ -21,11 +21,12 @@
 <style>
   button {
     border: 3px solid green;
-    padding: 5px;
+    padding: 15px;
     background-color: crimson;
     color: white;
   }
   button:hover {
     cursor: pointer;
+    background-color: orange;
   }
 </style>
