@@ -25,4 +25,7 @@
     background-color: crimson;
     color: white;
   }
+  button:hover {
+    cursor: pointer;
+  }
 </style>
